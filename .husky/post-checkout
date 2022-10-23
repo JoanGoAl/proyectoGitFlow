@@ -1,0 +1,22 @@
+#!/usr/bin/env sh
+# Joan González Albert 2DAW
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "      _ "
+echo "     ( ) "
+echo "      H "
+echo "      H "
+echo "     _H_ "
+echo "  .-'-.-'-. "
+echo " /         \ "
+echo "|           | "
+echo "|   .-------'._"
+echo "|  / /  '.' '. \ "
+echo "|  \ \ @   @ / / "
+echo "|   '---------' "        
+echo "|    _______| " 
+echo "|  .'-+-+-+|  "
+echo "|  '.-+-+-+| "
+echo "|    '''''' | "
+echo "'-.__   __.-' "
+echo "     ''' "
