@@ -1,0 +1,12 @@
+/* Joan González Albert 2DAW */
+
+html {
+    margin: 0 auto;
+    color: rgb(56, 56, 56);
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
